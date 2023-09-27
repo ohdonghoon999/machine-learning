@@ -1,4 +1,4 @@
-# Machine Learning Study 혼자 해보기
+# Machine Learning Study 같이 해보기 
 
 <div align="center">
 
